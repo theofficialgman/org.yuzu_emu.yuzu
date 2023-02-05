@@ -223,13 +223,6 @@
                 "env": {
                     "TITLEBARFORMATIDLE": "yuzu {}",
                     "TITLEBARFORMATRUNNING": "yuzu {} | {}"
-                },
-                "arch": {
-                    "aarch64": {
-                        "config-opts": [
-                            "-DENABLE_OPENGL=OFF"
-                        ]
-                    }
                 }
             },
             "cleanup": [
@@ -246,8 +239,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/theofficialgman/yuzu-mainline.git",
-                    "tag": "mainline-0-1330-1",
-                    "commit": "b7a76a7d5fceec61c4c1209532aa14627c93f201",
+                    "tag": "mainline-0-1330-2",
+                    "commit": "6ef56f02194fd48ae1da1d5f007639a90f0ca49a",
                     "disable-shallow-clone": true,
                     "x-checker-data": {
                         "type": "git",
