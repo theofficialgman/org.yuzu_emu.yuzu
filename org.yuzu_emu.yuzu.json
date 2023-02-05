@@ -245,9 +245,9 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://github.com/yuzu-emu/yuzu-mainline.git",
-                    "tag": "mainline-0-1330",
-                    "commit": "71b56e01b87f20fdc95001c8ae1bfe3d5e2fd16e",
+                    "url": "https://github.com/theofficialgman/yuzu-mainline.git",
+                    "tag": "mainline-0-1330-1",
+                    "commit": "b7a76a7d5fceec61c4c1209532aa14627c93f201",
                     "disable-shallow-clone": true,
                     "x-checker-data": {
                         "type": "git",
